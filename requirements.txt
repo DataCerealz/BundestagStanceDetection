@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+bs4
+textblob_de
+pandarallel
+deep_translator
+vaderSentiment
