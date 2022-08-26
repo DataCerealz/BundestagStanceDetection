@@ -101,6 +101,7 @@ def parse_data_to_df(file):
         df = pd.DataFrame(dict)
         return df
 
+
 def get_bundestag_df(liste_von_plenarprotokollverzeichnissen):
     # assign directory
     directories = liste_von_plenarprotokollverzeichnissen
