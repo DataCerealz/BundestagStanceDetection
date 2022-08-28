@@ -6,3 +6,5 @@ textblob_de
 pandarallel
 deep_translator
 vaderSentiment
+tqdm
+libretranslate

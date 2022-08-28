@@ -7,3 +7,14 @@
 Tagesordnungspunkten?
 - Tauchen Themen, die vor Regierungsantritt gefordert wurden nun öfter in Tagesordnungen auf als vorher?
 - Haben sich die Positionen gegenüber Aufrüstung der Bundeswehr und Waffenlieferung ins Ausland nach dem Beginn des Ukrainekrieges in den Parteien verändert?
+
+
+brew install cmake
+brew install pkg-config
+pip brew info icu4c
+
+aus der Ausgabe z.B.: export PATH="/opt/homebrew/opt/icu4c/bin:$PATH"
+
+pip install pyicu
+
+pip install sentencepiece

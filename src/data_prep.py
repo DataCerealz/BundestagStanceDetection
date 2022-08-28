@@ -111,11 +111,14 @@ def get_bundestag_df(liste_von_plenarprotokollverzeichnissen):
 
     dfs = []
     for directory in directories:
+        print("Processing directory " + directory)
         for filename in os.listdir(directory):
             f = os.path.join(directory, filename)
             # checking if it is a file
             if os.path.isfile(f):
+
                 get_df = parse_data_to_df(f)
                 dfs.append(get_df)
+        print("Done processing directory " + directory)
 
     return pd.concat(dfs, ignore_index=True)
