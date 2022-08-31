@@ -1,0 +1,9 @@
+datalore-env-format-version: "0.2"
+datalore-package-manager: "pip"
+datalore-base-env: "default"
+dependencies:
+- pip:
+  - pandarallel
+  - textblob-de
+  - deep-translator
+  - vadersentiment
