@@ -2,6 +2,8 @@
 
 Nur das Notebook "datalore" beinhaltet die Abgabe für dieses Modul. Alle anderen Dateien sind "Altdateien" bevor wir gemeinschaftlich in nur einem Cloud-Notebook gearbeitet haben.
 
+Zur Bewertung bitte das Online-Notebook verwenden oder alternative den Release 1.0 von GitHub herunterladen; nur dieser enthält alle nötigen Source Dateien um das Notebook erfolgreich auszuführen.
+
 [Interaktives Notebook mit allen Ergebnissen und allen Daten](https://datalore.jetbrains.com/notebook/5z7qjYfOGkHwB1f7mYroYI/PfoRrta3rC9JhJlZFZlpMV/)
 
 
