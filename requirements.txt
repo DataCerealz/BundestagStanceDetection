@@ -1,10 +1,8 @@
 pandas
 numpy
 matplotlib
-bs4
+deep_translator
+nltk
+vaderSentiment
 textblob_de
 pandarallel
-deep_translator
-vaderSentiment
-tqdm
-libretranslate
