@@ -7,7 +7,6 @@ Nur das Notebook "datalore" beinhaltet die Abgabe für dieses Modul. Alle andere
 
 ## Forschungsfragen
 - Hat der Status einer Partei (Oppositon oder Regierung) Einfluss auf deren Positionen zu diversen Themen?
-(ggf. bei Zeitmangeln Ausmaß nicht bestimmen sondern stattdessen Beispiele um überhaupt Einfluss nachzuweisen: z.B. CDU <-> erneuerbare Energie, Grüne <-> Waffenlieferungen/Kohlekraft)
 - Verändert sich das Interesse der Parteien an Themen bezogen auf deren Status (Opposition oder Regierung) gemessen an eingebrachten
 Tagesordnungspunkten?
 - Tauchen Themen, die vor Regierungsantritt gefordert wurden nun öfter in Tagesordnungen auf als vorher?
